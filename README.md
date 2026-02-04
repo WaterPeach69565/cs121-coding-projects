@@ -1,5 +1,5 @@
 # cs121-coding-projects
-All my porjects and programs from this year
+All my projects and programs from this year(2024)
 
 In this file you will find projects 1-3
 
