@@ -4,4 +4,4 @@ All my projects and programs from this year(2024)
 In this file you will find projects 1-3
 
 Activity 1-35
-The week numbers maybey slightly off compared to others as I didn't have a week one folder and used the main file the first week.
+The week numbers maybe slightly off compared to others as I didn't have a week one folder and used the main file the first week.
